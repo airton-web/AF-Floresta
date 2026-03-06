@@ -1,0 +1,19 @@
+name: Floresta
+version: '${project.version}'
+main: airton4563.floresta.Main
+load: POSTWORLD
+authors: [airton4563]
+website: https://discord.com/users/1023766894257393775
+commands:
+  floresta:
+    description: Comando da Floresta
+  lenhas:
+    description: Comando de Lenhas
+  machado:
+    description: Comando de Machado
+    permission: floresta.machado
+    permission-message: §cVocê não tem permissão para usar esse comando.
+  motoserra:
+    description: Comando de Motoserra
+    permission: floresta.motoserra
+    permission-message: §cVocê não tem permissão para usar esse comando.

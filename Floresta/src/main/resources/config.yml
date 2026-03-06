@@ -1,0 +1,11 @@
+# O mundo onde o plugin funcionará
+World: "world"
+
+# Não mexer aqui!
+Spawn:
+  World:
+  X:
+  Y:
+  Z:
+  Yaw:
+  Pitch:

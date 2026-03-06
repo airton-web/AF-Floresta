@@ -1,0 +1,6 @@
+Leveis:
+  # Número 1 significa o número do level
+  # Número 10 significa quantas lenhas será requisitada
+  1: 10
+  2: 15
+  3: 20
