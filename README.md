@@ -1,4 +1,4 @@
-Aqui está o **README.md atualizado**, removendo o **plugin Bolsa** e mantendo o foco em plugins de Minecraft.
+
 
 ---
 
